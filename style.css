@@ -68,6 +68,7 @@ ul.side-bar-list{
     
 }
 .all-tag{
+    background-color: whitesmoke;
     margin-left: 20px;
     padding: 5px;
     width: 30px;
@@ -76,8 +77,10 @@ ul.side-bar-list{
     display: inline-block;
     border-radius: 15px;
     text-decoration: none;
+    color: white;
 }
 .recentlysearch-tag{
+    background-color: whitesmoke;
     display: inline-block;
     border: 0.5px solid #CDCDCD;
     font-family:serif;
@@ -86,6 +89,7 @@ ul.side-bar-list{
     padding: 5PX;
 }
 .computer-tag{
+    background-color: whitesmoke;
     display: inline-block;
     border: 0.5px solid #CDCDCD;
     font-family:serif;
@@ -94,6 +98,7 @@ ul.side-bar-list{
     padding: 5PX;
 }
 .music-tag{
+    background-color: whitesmoke;
     display: inline-block;
     border: 0.5px solid #CDCDCD;
     font-family:serif;
@@ -102,6 +107,7 @@ ul.side-bar-list{
     padding: 5PX;
 }
 .google-tag{
+    background-color: whitesmoke;
     display: inline-block;
     border: 0.5px solid #CDCDCD;
     font-family:serif;
@@ -110,6 +116,7 @@ ul.side-bar-list{
     padding: 5PX;
 }
 .anime-tag{
+    background-color: whitesmoke;
     display: inline-block;
     border: 0.5px solid #CDCDCD;
     font-family:serif;
@@ -117,25 +124,74 @@ ul.side-bar-list{
     margin-left: 10px;
     padding: 5PX;
 }
-
 .content-box{
-    width: 100%;
-    background-color: white;
+    width: 90%;
+    background-color: whitesmoke;
     display: inline-block;
 }
+
 .middle-box{
-    width: 93%;
-    background-color: yellow;
-    padding: 20px 20px;
+    width: 95%;
+    background-color: whitesmoke;
     margin-left:auto;
     margin-right: auto;
-    margin-top: 20px;
-    height: 100vh;
-
-}
+    margin-top: 20px;}
 a:hover{
     background-color:  #CDCDCD;
 }
+.video-1{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
 
+}
+.video-2{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-3{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-4{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-5{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-6{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-7{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-8{
+    width:24.6%;
+    height: 260px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.video-box{
+    width: 100%;
+    background-color: yellow;
+    height: 180px;
+}
 
 
