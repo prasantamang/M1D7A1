@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+}
+.page-wrapper{
+    background-color: white;
+    width: 100%;
+}
+.side-bar{
+    background-color: white;
+    width: 4.8%;
+    padding: 11px 3px 0px 0px;
+    display: inline-block;
+}
+ul.side-bar-list{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.nav-bar{
+    background-color: white;
+    width: 94%; 
+    display: inline-block;
+    vertical-align: top;
+}
+.yt-logo{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.yt-search{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-left: 150px;
+}
+.yt-mic{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.yt-upload{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-left: 75px;
+}
+.yt-apps{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.yt-notify{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.yt-account{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.nav-bar-bottom{
+    background-color: white;
+    padding: 15px;
+    border-bottom: 0.5px solid #CDCDCD;
+    border-top: 0.5px solid #CDCDCD;
+    
+}
+.all-tag{
+    margin-left: 20px;
+    padding: 5px;
+    width: 30px;
+    border: 0.5px solid #CDCDCD;
+    font-family:serif;
+    display: inline-block;
+    border-radius: 15px;
+    text-decoration: none;
+}
+.recentlysearch-tag{
+    display: inline-block;
+    border: 0.5px solid #CDCDCD;
+    font-family:serif;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 5PX;
+}
+.computer-tag{
+    display: inline-block;
+    border: 0.5px solid #CDCDCD;
+    font-family:serif;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 5PX;
+}
+.music-tag{
+    display: inline-block;
+    border: 0.5px solid #CDCDCD;
+    font-family:serif;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 5PX;
+}
+.google-tag{
+    display: inline-block;
+    border: 0.5px solid #CDCDCD;
+    font-family:serif;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 5PX;
+}
+.anime-tag{
+    display: inline-block;
+    border: 0.5px solid #CDCDCD;
+    font-family:serif;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 5PX;
+}
+
+.content-box{
+    width: 100%;
+    background-color: white;
+    display: inline-block;
+}
+.middle-box{
+    width: 93%;
+    background-color: yellow;
+    padding: 20px 20px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: 100vh;
+
+}
+a:hover{
+    background-color:  #CDCDCD;
+}
+
+
+
