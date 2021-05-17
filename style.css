@@ -9,7 +9,8 @@
     background-color: white;
     width: 4.8%;
     padding: 11px 3px 0px 0px;
-    display: inline-block;
+    display: inline;
+    float: left;
 }
 ul.side-bar-list{
     padding: 0;
@@ -20,8 +21,9 @@ ul.side-bar-list{
 .nav-bar{
     background-color: white;
     width: 94%; 
-    display: inline-block;
+    display: inline;
     vertical-align: top;
+    float: left;
 }
 .yt-logo{
     margin: 0;
@@ -125,19 +127,22 @@ ul.side-bar-list{
     padding: 5PX;
 }
 .content-box{
-    width: 90%;
+    width: 94%;
     background-color: whitesmoke;
-    display: inline-block;
+    display: inline;
+    padding-left: 5px;
+    float: right;
 }
 
 .middle-box{
-    width: 95%;
+    width: 98%;
     background-color: whitesmoke;
     margin-left:auto;
     margin-right: auto;
     margin-top: 20px;}
 a:hover{
     background-color:  #CDCDCD;
+    text-decoration: none;
 }
 .video-1{
     width:24.6%;
